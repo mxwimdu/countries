@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     countries (0.9.3)
-      currencies (~> 0.4.2)
+      currencies (~> 0.4.1.wimdu)
 
 GEM
   remote: https://rubygems.org/
